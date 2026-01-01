@@ -26,3 +26,16 @@ This dashboard enables stakeholders to monitor sales trends, compare city and ou
   ## Dashboard
   
   <img width="1854" height="756" alt="Blinkit_Dashboard" src="https://github.com/user-attachments/assets/584b5ead-2df9-4406-a93a-9311b05336f3" />
+
+  ## Project Insights
+- Bangalore emerges as the top-selling city based on total sales.
+- Supermarket Type 1 generates the highest revenue among all outlet types.
+- UPI is the most used payment mode, indicating a strong preference for digital payments.
+- Sales are fairly distributed across regions, with slight variations.
+- Monthly sales show noticeable fluctuations, indicating seasonality in customer demand.
+- Snack Foods and Frozen Foods are among the highest-selling product categories.
+- Older outlets tend to contribute significantly to overall sales performance.
+
+  ## Final Conclusion
+The Blinkit Sales Analysis Dashboard provides a comprehensive view of retail performance through interactive and easy-to-understand visuals.
+By analyzing sales across cities, outlet types, payment modes, and product categories, the dashboard helps identify growth opportunities and customer trends, enabling data-driven decisions for sales strategy and outlet optimization.
