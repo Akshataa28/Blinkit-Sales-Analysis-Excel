@@ -1,2 +1,4 @@
-# Blinkit-Sales-Analysis-Excel
-I developed a comprehensive project using Excel, creating a dashboard and tables to analyze data. This process included data preprocessing, data cleaning, and data visualization to extract meaningful insights.
+#Blinkit Sales Analysis Dashboard (Excel)
+##Project Objective
+The objective of this project is to analyze Blinkit’s retail sales performance and customer purchasing patterns using Excel.
+The dashboard enables stakeholders to monitor sales trends, compare city and outlet performance, and understand customer preferences through interactive visualizations.
