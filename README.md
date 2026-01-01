@@ -4,4 +4,4 @@ The objective of this project is to analyze Blinkit retail sales performance and
 This dashboard enables stakeholders to monitor sales trends, compare city and outlet performance, and understand customer preferences through interactive visualizations.
 
 ## Dataset used
--<a href="https://github.com/Akshataa28/Blinkit-Sales-Analysis-Excel/blob/main/Project%20BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+-   <a href="https://github.com/Akshataa28/Blinkit-Sales-Analysis-Excel/blob/main/Project%20BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
