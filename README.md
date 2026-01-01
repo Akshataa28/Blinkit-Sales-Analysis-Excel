@@ -5,3 +5,12 @@ This dashboard enables stakeholders to monitor sales trends, compare city and ou
 
 ## Dataset used
 -   <a href="https://github.com/Akshataa28/Blinkit-Sales-Analysis-Excel/blob/main/Project%20BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+
+## Questions (KPIs)
+- What is the overall sales performance across all outlets?
+- Which city contributes the highest sales?
+- How do different outlet types perform in terms of revenue?
+- Which payment modes are most preferred by customers?
+- How does sales vary by region and item category?
+- What are the monthly sales trends over the year?
+- Which product categories generate the highest sales?
